@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Video_Player</string>
+
+    <string name="batman_main">Batman, the Dark Knight, fights through the night,
+In Gotham City, he battles crime with all his might.
+His gadgets and stealth bring justice to the fight.</string>
+
+    <string name="superman_main">Superman, the Man of Steel, soars through the sky,
+Defender of truth and justice, his purpose held high.
+With superhuman strength, he saves lives without a sigh.</string>
+
+    <string name="wonder_Woman_main">Wonder Woman, Amazon warrior, fierce and bold,
+Protector of the innocent, her story unfolds.
+With lasso and shield, she fights for justice untold.</string>
+
+    <string name="iron_man_main">Iron Man, genius inventor, armored and strong,
+Battles evil with technology all day long.
+His wit and repulsor blasts never go wrong.</string>
+
+    <string name="capn_america">Captain America, patriotic and true,
+Embodies courage and the red, white, and blue.
+With shield in hand, he fights for justice through and through.</string>
+
+    <string name="spider_man">SpiderMan, agile and quick as can be,
+Swinging through the city with webs so free.
+With great power comes great responsibility, he will always agree.</string>
+
+    <string name="clickbelow">Click to watch a Video</string>
+
+
 </resources>
